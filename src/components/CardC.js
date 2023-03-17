@@ -6,7 +6,7 @@ import CardContent from '@mui/material/CardContent';
 import Button from '@mui/material/Button';
 import Typography from '@mui/material/Typography';
 import Switch from '@mui/material/Switch';
-import CardCAuto from './CardCAuto';
+import CardCAuto from './Select';
 
 const bull = (
   <Box
